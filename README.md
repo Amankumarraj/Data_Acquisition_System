@@ -1,2 +1,2 @@
 # Data_Acquisition_System
-Used to transfer analog signals from ADC to UART
+Transfer analog signals from ADC to UART
